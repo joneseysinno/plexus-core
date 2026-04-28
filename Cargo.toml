@@ -1,0 +1,8 @@
+[package]
+name = "plexus-core"
+version = "0.1.0"
+edition = "2024"
+description = "Shared primitives for the Plexus-Loom backend: typed IDs, SPC encoding, types, and values."
+
+[dependencies]
+serde = { workspace = true }
