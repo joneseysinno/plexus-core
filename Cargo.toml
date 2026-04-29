@@ -1,11 +1,11 @@
 [package]
-name = "plexus-core"
+name = "plexus-base"
 version = "0.1.0"
 edition = "2024"
 description = "Shared primitives for the Plexus-Loom backend: typed IDs, SPC encoding, types, and values."
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/joneseysinno/plexus-core.git"
-documentation = "https://docs.rs/plexus-core"
+documentation = "https://docs.rs/plexus-base"
 keywords = ["graph", "id", "spatial", "value", "plexus"]
 categories = ["data-structures"]
 
