@@ -8,7 +8,7 @@ use crate::types::TypeSig;
 // Value
 // ---------------------------------------------------------------------------
 
-/// A runtime-typed value that can flow through ports in a Plexus graph.
+/// A runtime-typed value that can flow through ports in an frp graph.
 #[derive(Debug, Clone, PartialEq, Serialize, Deserialize)]
 pub enum Value {
     /// The absence of a value.

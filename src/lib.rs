@@ -1,4 +1,4 @@
-//! Shared primitives for the Plexus-Loom backend.
+//! Shared primitives for the infinite-db frp backend.
 //!
 //! Provides typed IDs, SPC / Morton spatial encoding, type signatures, and
 //! the runtime `Value` enum. No external dependencies beyond `serde` — the
