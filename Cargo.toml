@@ -3,6 +3,11 @@ name = "plexus-core"
 version = "0.1.0"
 edition = "2024"
 description = "Shared primitives for the Plexus-Loom backend: typed IDs, SPC encoding, types, and values."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/plexus-loom/plexus-loom"
+documentation = "https://docs.rs/plexus-core"
+keywords = ["graph", "id", "spatial", "value", "plexus"]
+categories = ["data-structures"]
 
 [dependencies]
 serde = { workspace = true }
